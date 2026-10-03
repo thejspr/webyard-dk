@@ -1,6 +1,6 @@
 # Webyard Landing Page
 
-A simple, static HTML landing page for Webyard - a software development company specializing in Ruby on Rails, Python, React, Node, and more.
+A simple, static HTML landing page for Webyard - a software development company that builds custom software for any challenge, choosing the right technology for the job rather than specializing in one stack.
 
 ## About
 
